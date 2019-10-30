@@ -1,5 +1,6 @@
 package com.code;
 
+
 public class Candidate {
     private String name;
     private int voices = 0;

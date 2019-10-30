@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91d57a34-79a2-4d42-8f67-2b96303a027a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/code/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/Candidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/Candidate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/code/Elector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/Elector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/code/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/code/Voting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/Voting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/code/VotingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/code/VotingSystem.java" afterDir="false" />
     </list>
@@ -28,8 +28,10 @@
   </component>
   <component name="ProjectId" id="1S3Zye2jZkCeKPbG9G6u3YQbOdj" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,7 +94,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

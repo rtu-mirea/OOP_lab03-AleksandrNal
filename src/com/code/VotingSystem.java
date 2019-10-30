@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+
 public class VotingSystem {
     private static List<User> users;
     private static Voting currentVoting = null;

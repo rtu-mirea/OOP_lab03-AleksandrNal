@@ -2,6 +2,7 @@ package com.code;
 
 import java.util.*;
 
+
 public class Voting {
     private String title;
     private List<Candidate> candidats;

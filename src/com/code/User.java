@@ -1,5 +1,6 @@
 package com.code;
 
+
 public class User {
     private String name;
     private String login;

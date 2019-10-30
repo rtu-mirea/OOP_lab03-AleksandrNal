@@ -1,5 +1,6 @@
 package com.code;
 
+
 public class Elector extends User{
     private boolean voted;
 
